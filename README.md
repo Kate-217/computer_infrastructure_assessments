@@ -2,7 +2,6 @@
 This repository contains my work for the Computer Infrastructure module at ATU during the 2024-2025 academic year.<br>
 ## About this project
 This project demonstrates the use of various Linux commands and Python tools to process data. It was completed as part of an educational exercise to develop skills in automation, data handling, and analysis. The tasks involve creating directories, fetching data from open sources, and summarizing it using Python libraries.
-
 ## Use of this project
 The project is a practical guide for beginners in Linux and Python, showcasing how to:
 * Use shell commands to create and manage files and directories.
@@ -17,10 +16,8 @@ Install Jupyter Notebook for running and editing the `.ipynb` file.
 * pandas: For data analysis.
 * matplotlib: For visualizations (optional for future analysis).
 Install them using `pip install pandas matplotlib`.
-### Project Files:
-Clone the repository or download the following files:<br>
-**weather.sh** script: Automates weather data download.<br>
-**weather.ipynb**: A notebook explaining and analyzing the tasks.<br>
+### Data Sourse:
+[Athenry weather data](https://prodapi.metweb.ie/observations/athenry/today)
 ## Tasks Overview
 Task 1: Directory Structure
 Created a directory data with subdirectories timestamps and weather using Linux commands `mkdir`, `cd`.
@@ -45,9 +42,11 @@ Created a shell script **weather.sh** to automate the data download process. Mad
 
 ## Getting help
 If you encounter any issues or have questions, feel free to contact me.
-
 ## Contribute
 Contributions are welcome! Clone the repository, make your improvements or suggestions, and submit a pull request
+## References
+https://data.gov.ie/
+https://www.hostinger.com/tutorials/linux-commands
 ## Author
 Katerina Lisovenko
 Atlantic Technological University Student (2024-2025)
