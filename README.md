@@ -45,10 +45,12 @@ Created a shell script **weather.sh** to automate the data download process. Mad
 ## Getting help
 If you encounter any issues or have questions, feel free to contact me.
 ## Contribute
-Contributions are welcome! Clone the repository, make your improvements or suggestions, and submit a pull request
+Contributions are welcome! Clone the repository, make your improvements or suggestions, and submit a pull request.
 ## References
 https://data.gov.ie/<br>
 https://www.hostinger.com/tutorials/linux-commands
 ## Author
 Katerina Lisovenko
 Atlantic Technological University Student (2024-2025)
+### Disclaimer
+AI tools, including GPT-3 (ChatGPT), were used to assist with style and grammar checks, as well as to research additional solutions, while ensuring the accuracy and quality of the work.
