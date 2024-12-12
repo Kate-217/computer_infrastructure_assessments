@@ -1,5 +1,3 @@
-
-
 # Computer Infrastructure Assessments
 This repository contains my work for the Computer Infrastructure module at ATU during the 2024-2025 academic year.<br>
 ## About this project
@@ -41,7 +39,6 @@ Enhanced the `wget` command to save files with timestamped names, making each fi
 
 Task 7: Automating the Process
 Created a shell script **weather.sh** to automate the data download process. Made the script executable using `chmod u+x` and executed it with `./weather.sh`.
-
 ## Getting help
 If you encounter any issues or have questions, feel free to contact me.
 ## Contribute
