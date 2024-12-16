@@ -9,8 +9,9 @@ permissions:
   contents: write
 
 jobs:
-  fetch the weather data:
+  fetch-the-weather-data:
     runs-on: ubuntu-latest
+
     steps:
       # Step 1: Check out the repository
     - name: Check out repository
