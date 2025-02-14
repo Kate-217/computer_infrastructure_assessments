@@ -1,7 +1,7 @@
 # Computer Infrastructure Assessments
 This repository contains my work for the Computer Infrastructure module at ATU during the 2024-2025 academic year.<br>
 ## About this project
-This project demonstrates how various Linux commands and Python tools are used to process data. It was completed as part of an educational exercise to develop skills in automation, data handling, and analysis. The tasks involve creating directories, fetching data from open sources, and summarizing it using Python libraries.
+The project demonstrates how various Linux commands and Python tools are used to process data. It was completed as part of an educational exercise to develop skills in automation, data handling, and analysis. The tasks involve creating directories, fetching data from open sources, and summarizing it using Python libraries.
 ## Use of this project
 The project is a practical guide for beginners in Linux and Python, showcasing how to:
 * Use shell commands to create and manage files and directories.
@@ -57,7 +57,7 @@ If you encounter any issues or have questions, feel free to contact me.
 ## Contribute
 Contributions are welcome! Clone the repository, make your improvements or suggestions, and submit a pull request.
 ## References
-[Data sourse](https://data.gov.ie/)<br>
+[Data source](https://data.gov.ie/)<br>
 [60 essential Linux commands](https://www.hostinger.com/tutorials/linux-commands)<br>
 [The quick and simple editor for cron schedule expressions ](https://crontab.guru/)<br>
 [Workflow syntax for GitHub Actions](https://docs.github.com/en/actions/writing-workflows/workflow-syntax-for-github-actions)<br>
